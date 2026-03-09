@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,5 +33,6 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [3668-restore-finishing-order](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 <!---LeetCode Topics End-->
