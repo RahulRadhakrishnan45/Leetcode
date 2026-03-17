@@ -7,6 +7,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0189-rotate-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +60,12 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
