@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0278-first-bad-version](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -77,4 +78,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
