@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -88,4 +90,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
