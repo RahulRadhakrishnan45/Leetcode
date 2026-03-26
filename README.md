@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## String Matching
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [3668-restore-finishing-order](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -94,5 +96,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
