@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## String Matching
@@ -39,6 +40,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3668-restore-finishing-order](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +101,8 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
