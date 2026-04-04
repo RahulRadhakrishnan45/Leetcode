@@ -61,6 +61,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -68,6 +69,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
