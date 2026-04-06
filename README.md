@@ -36,6 +36,7 @@
 | [0069-sqrtx](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -109,6 +111,7 @@
 | [0049-group-anagrams](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
