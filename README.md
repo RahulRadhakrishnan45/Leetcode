@@ -54,6 +54,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1929-concatenation-of-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -106,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [1929-concatenation-of-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
