@@ -51,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
