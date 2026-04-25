@@ -44,6 +44,7 @@
 | [0202-happy-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3668-restore-finishing-order](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@
 | [0189-rotate-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1470-shuffle-the-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -116,9 +118,14 @@
 | [0049-group-anagrams](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
