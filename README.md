@@ -61,6 +61,7 @@
 | [0704-binary-search](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -81,6 +82,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
