@@ -63,6 +63,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -127,6 +128,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
