@@ -24,6 +24,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0202-happy-number/) | Easy |
