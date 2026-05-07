@@ -31,6 +31,7 @@
 | [0263-ugly-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Binary Search
@@ -49,6 +50,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3668-restore-finishing-order](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Array
