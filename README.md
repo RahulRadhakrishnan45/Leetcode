@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0118-pascals-triangle](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -80,6 +81,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
