@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -130,6 +132,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -150,6 +153,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
