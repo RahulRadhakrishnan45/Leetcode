@@ -19,6 +19,7 @@
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0415-add-strings](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -141,6 +143,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -150,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +197,12 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
