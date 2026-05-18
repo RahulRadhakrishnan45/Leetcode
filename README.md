@@ -95,6 +95,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -170,12 +171,14 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
@@ -185,6 +188,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RahulRadhakrishnan45/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
