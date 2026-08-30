@@ -3,20 +3,21 @@
  * @return {boolean}
  */
 var isHappy = function(n) {
-    function nextNum(num) {
-        let total = 0
-        while(num>0) {
+    function sumOfSquares(num){
+        let sum = 0
+        while(num>0){
             let digit = num%10
-            total += digit*digit
+            sum += digit * digit
             num = Math.floor(num/10)
         }
-        return total
+        return sum
     }
     let slow = n
-    let fast = nextNum(n)
-    while(fast !=1 && slow != fast) {
-        slow = nextNum(slow)
-        fast = nextNum(nextNum(fast))
-    }
-    return fast == 1
+    let fast = n
+    do{
+        slow=sumOfSquares(slow)
+        fast=sumOfSquares(sumOfSquares(fast))
+    } while(slow !== fast)
+
+    return slow === 1
 };
